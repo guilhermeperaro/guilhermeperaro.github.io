@@ -3,7 +3,7 @@
 roadmap:
 --------
 
-+ criar repositorio git
++ ~~criar repositorio git~~
 + deploy versão (muito) minimalista
 + colocar google analytics
 
